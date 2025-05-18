@@ -1,3 +1,12 @@
-# member-area-gudang-laba
-membuat member area dengan laravel.
-proyek keroyokan melibatkan banyak orang, bisa makan rame rame.
+# ✅ 2. GudangLaba – Django + Livewire-like Blade
+Untuk publik, open ledger, akses audit (readonly)
+
+# 🧾 Fitur:
+
+Ledger publik by bulan
+
+CSV / PDF Export
+
+Verifikasi tanda tangan transaksi
+
+Statistik kas umum
