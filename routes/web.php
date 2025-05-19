@@ -22,3 +22,6 @@ Route::middleware([
 
 // routes/web.php
 Route::view('/blog', 'pages.blog')->name('blog');
+
+// routes/web.php
+Route::view('/blogtail', 'pages.blogtail')->name('blogtail');

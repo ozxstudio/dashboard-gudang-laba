@@ -4,7 +4,7 @@
 
 @section('content')
 
-    <h3 class="blue-text text-darken-2">Home</h3>
+    <h3 class="blue-text text-darken-2">Blog Article</h3>
 
     <div class="section">
         {{-- Artikel pertama --}}
